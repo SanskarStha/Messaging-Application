@@ -1,0 +1,3 @@
+teamB:sanskar,ali
+avengers:ali,akib,sanskar
+boys:sanskar,ali
